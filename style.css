@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(rgb(210, 229, 251), rgb(255, 243, 186), rgb(210, 229, 251), rgb(255, 243, 186),rgb(210, 229, 251), rgb(255, 243, 186),rgb(210, 229, 251), rgb(255, 243, 186));
+}
+h1, h2, h3, h4, p {
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+
+h5, h6, p {
+    font-family: 'Slackside One', cursive;
+}
+.header {
+    width: 375px;
+    height: 150px;
+}
+.img {
+    width: 275px;
+    height: 275px;
+}
